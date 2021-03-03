@@ -1,0 +1,1 @@
+{"uuid":"93e39cff-21ee-41ef-97d8-98375dec541b","name":"Scenario: Adcionar produto no carrinho","children":["1b8ec4c2-8251-48f3-bf45-056eb2cf66c7"],"befores":[],"afters":[{"name":"Hook.fechar(Scenario)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1613267241748,"stop":1613267242732}],"links":[],"start":1613267195149,"stop":1613267242732}
