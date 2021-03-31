@@ -4,6 +4,4 @@ services:
     build: .
     stdin_open: true # docker run -i
     tty: true
-    volumes:
-      - C:\Users\Raphael\Documents\AutomacaoSelenium:/home/AutomacaoSelenium
  
